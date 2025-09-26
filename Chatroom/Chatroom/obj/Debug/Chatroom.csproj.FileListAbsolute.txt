@@ -1,0 +1,10 @@
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\bin\Debug\Chatroom.exe.config
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\bin\Debug\Chatroom.exe
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\bin\Debug\Chatroom.pdb
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.AssemblyReference.cache
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.Form1.resources
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.Properties.Resources.resources
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.GenerateResource.cache
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.exe
+C:\Users\Alexis\source\repos\Chatroom\Chatroom\obj\Debug\Chatroom.pdb
